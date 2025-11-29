@@ -1,0 +1,5 @@
+hardware/pendant-v1/
+├── main.py                  # Runs on the pendant
+├── requirements.txt
+├── board.kicad_pro          # Full KiCad project
+└── parts.csv                # Mouser/Digikey BOM (total $76.31)
