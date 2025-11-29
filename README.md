@@ -1,3 +1,8 @@
+[![One-command install](https://img.shields.io/badge/install-one%20command-brightgreen?style=for-the-badge&logo=linux)](https://raw.githubusercontent.com/LHMisme420/https-github.com-LHMisme420-memora/main/install.sh)
+
+**One line to rule them all →**
+```bash
+curl -fsSL https://raw.githubusercontent.com/LHMisme420/https-github.com-LHMisme420-memora/main/install.sh | bash
 # Memora — Humanity's Lifelong Second Brain
 
 Privacy-first, fully local, lifelong personal memory prosthetic. Records, indexes, and searches everything you've ever seen, heard, or said. No cloud. No company. Forever yours.
