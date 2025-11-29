@@ -40,3 +40,7 @@ We are not waiting. We are remembering.
 [![Stars](https://img.shields.io/github/stars/LHMisme420/https-github.com-LHMisme420-memora?style=social)](https://github.com/LHMisme420/https-github.com-LHMisme420-memora)
 ![Locally run](https://img.shields.io/badge/runs-locally-brightgreen)
 ![No cloud](https://img.shields.io/badge/no_cloud-ever-red)
+[x] v0.1 – Background audio → searchable transcript
+[ ] v0.2 – Screen + webcam recording
+[ ] v1.0 – Local LLM reasoning over your entire life
+[ ] v2.0 – Export to Neuralink / Kernel / future BCI
